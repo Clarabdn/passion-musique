@@ -1,0 +1,19 @@
+<img src="https://cdn.pixabay.com/photo/2016/01/14/06/09/guitar-1139397_960_720.jpg" style="width: 640px; height: 426px;">
+<div class="container page p-3 mb-5 bg-white rounded">
+<title style="text-align:center; font-family:Roboto, Times, serif; font-size:4em; padding:0px; margin:0px; background-color:#444; padding-bottom:8px;">Le Blog de Clara</title>
+<br>
+<br>
+<div class="content">
+<div class="row">
+<div class="list-group" id="menu_108132" style="border-left-style: solid; border-color: #444;">
+<span class="list-group-item disabled" style="font-weight:bold; color: #444">MENU</span>
+</div>
+<div class="list-group" id="menu_108132" style="border-left-style: solid; border-color: #444;">
+<a class="list-group-item list-group-item-deroulant list-group-item-action" href="Clarabdn/passion-musique/acceuil.github.com>Accueil</a>
+</div>
+<br>
+</div>
+<div class="col-lg-9">
+<div id="module_366855" class="content_module">
+<h2>Pésentation</h2>
+<p align="justify">Je m'appelle Clara et je souhaite partagé avec vous mes passions et particulièrement en ce qui concerne la <a href="https://www.francemusique.fr/programmes" target="_blank">musique</a>.</p>
